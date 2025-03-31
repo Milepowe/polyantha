@@ -1,2 +1,2 @@
-# crystaline
-my first interpreted programming language, so it's obviously bad.
+# Polyantha
+Polyantha is an experimental programming language which is aimed to be very simple and performant.
