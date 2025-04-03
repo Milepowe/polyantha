@@ -1,6 +1,10 @@
 [package]
 name = "polyantha-interpreter"
 version = "0.0.1"
-edition = "2024"
+edition = "2021"
+authors = ["Milepower <milepower@protonmail.com>"]
 license-file = "LICENSE"
 [dependencies]
+[[bin]]
+name="lexer"
+path="src/lexer.rs"
